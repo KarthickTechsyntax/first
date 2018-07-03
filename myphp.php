@@ -1,1 +1,4 @@
-<?php echo 'My php Code here' ?>
+<?php echo 'My php Code here';
+
+echo 'Second User';
+?>
