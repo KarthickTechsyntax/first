@@ -20,6 +20,7 @@ if ($travel == 'Home Country')
 else
 {
 	echo 'Canada';
+	echo 'USA';
 }
 
  ?>
