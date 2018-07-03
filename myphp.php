@@ -1,5 +1,5 @@
 <?php 
-<<<<<<< HEAD
+
 $travel = 'home country';
 if($travel == 'Home Country')
 {
@@ -9,7 +9,7 @@ if($travel == 'Home Country')
 else
 {
 	echo 'Singapore';
-=======
+}
 $travel = 'Home Country';
 if ($travel == 'Home Country')
 {
@@ -20,7 +20,6 @@ if ($travel == 'Home Country')
 else
 {
 	echo 'Canada';
->>>>>>> travel
 }
 
  ?>
