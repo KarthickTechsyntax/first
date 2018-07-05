@@ -1,3 +1,13 @@
-<?php echo 'My php Code here';
-echo 'Im OM Heyyy';
- ?>
+<?php 
+$travel = 'Home Country';
+if ($travel == 'Home Country')
+{
+	echo 'Madurai';
+	echo 'Bangalore';	
+}
+else
+{
+	echo 'Singapore';
+	echo 'USA';
+}
+?>
